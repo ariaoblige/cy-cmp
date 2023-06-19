@@ -31,8 +31,6 @@ public class Program {
         try {
           maincypath = Directory.GetCurrentDirectory().ToString()+"/src/Main.cy";
           file = File.ReadAllText(maincypath);
-          
-          Console.WriteLine(file);
         }
         catch {
           Console.ForegroundColor = ConsoleColor.Red;
@@ -57,7 +55,7 @@ public class Program {
         };
         var alreadyappend = false;
 
-        while(ch < file.Length-1) {
+        while(ch < file.Length) {
           alreadyappend = false;
           line[1]++;
           if (file[ch] == '\n') {
@@ -138,6 +136,9 @@ public class Program {
         }
         if (cancompile) {
           File.WriteAllText(Directory.GetCurrentDirectory()+"/src/Main.c", output);
+          Console.ForegroundColor = ConsoleColor.Green;
+          Console.WriteLine("All right! Cyntax checking couldn't find any syntax issues. Created './src/Main.c' as an output.");
+          Console.ForegroundColor = ConsoleColor.Gray;
         }
         break;
       case "N":
