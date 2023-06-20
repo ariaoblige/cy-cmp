@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.AssemblyInfo.cs
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\bin\Debug\net6.0\cy.exe
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\bin\Debug\net6.0\cy.deps.json
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\bin\Debug\net6.0\cy.runtimeconfig.json
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\bin\Debug\net6.0\cy.dll
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\bin\Debug\net6.0\cy.pdb
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.dll
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\refint\cy.dll
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.pdb
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\cy.genruntimeconfig.cache
+C:\Users\Usuario\Documents\mther2\gamefolder\projects\ghproj\cy-cmp\src\obj\Debug\net6.0\ref\cy.dll

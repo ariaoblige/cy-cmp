@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy\\cy.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy-cmp\\src\\cy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy\\cy.csproj": {
+    "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy-cmp\\src\\cy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy\\cy.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy-cmp\\src\\cy.csproj",
         "projectName": "cy",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy\\cy.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy-cmp\\src\\cy.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\mther2\\gamefolder\\projects\\ghproj\\cy-cmp\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
