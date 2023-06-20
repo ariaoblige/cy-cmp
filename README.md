@@ -5,8 +5,7 @@ The difference is that Cy has almost the same syntax as C and has no fancy featu
 - Install the Cy Compiler through the [releases](https://github.com/ariaoblige/cy-cmp/releases) page.
 - Put it into a safe folder.
 - Add that folder to the environment variables.
-- Type `cy` in the terminal to create a new project or compile it to C.
-**Note: Cy expects the compile functionality to be executed at the root directory of the project, not the src directory.**
+- Type `cy` in the terminal to access its functions. You can create and compile both projects and standalone files.
 ---
 ## Syntax differences
 All the four default C data types are introduced by @ and are only two characters long. When formatting strings, **use an $ instead of %**.
